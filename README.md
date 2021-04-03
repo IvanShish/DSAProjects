@@ -4,7 +4,7 @@ Discipline "Data Structures and Algorithms" at the university in 2019. C/C++.
 
 ### Russian:
 
-5 лабораторных работ. Отчеты есть в папках.
+5 лабораторных работ и 1 курсовая. Отчеты есть в папках.
 1. Построить синтаксический анализатор для понятия скобки.
 
 скобки::=А | A ( ряд_скобок )
@@ -21,6 +21,8 @@ Discipline "Data Structures and Algorithms" at the university in 2019. C/C++.
 в) найти в дереве b длину пути (число ветвей) от корня до ближайшего узла с элементом Е (если Е не входит в b, за ответ принять −1).
 
 5. Статическое кодирование Хаффмана.
+
+Курсовая работа: сравнение динамического декодирования Хаффмана со статическим и динамического кодирования Хаффмана со статическим (исследование)
 
 ### English:
 
@@ -40,3 +42,5 @@ b) determine the number of occurrences of the element E in the tree b;
 c) find in tree b the length of the path (the number of branches) from the root to the nearest node with the element E (if E is not included in b, take −1 for the answer).
 
 5. Static Huffman coding.
+
+Coursework: Comparison of Dynamic Huffman Decoding with Static and Dynamic Huffman Coding with Static (research)
